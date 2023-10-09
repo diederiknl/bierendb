@@ -15,4 +15,7 @@ Questions? No questions? Good. If so: d.de.vries@hr.nl is my work-email. Feel fr
 
 **9 okt 2023**
 
-Work in progress: Creating the SQLITE database. Why was databases fun again?
+Work in progress: Creating the SQLITE database. Why was databases fun again? THE **SQLITEDATABASE IS NOT STABLE AT THIS POINT**.
+
++ Added bieren
++ Added brouwerijen
