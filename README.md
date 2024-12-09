@@ -19,3 +19,8 @@ Work in progress: Creating the SQLITE database. Why was databases fun again? THE
 
 + Added bieren
 + Added brouwerijen
+
+# 9 Dec 2024
+
+Grote wijzigingen doorgevoerd op eerdere database. Zie de git messages. Hopsoorten aangepast en toegevoegd. Data hiervoor komt bij https://hopblog.nl/hopsoorten/ vandaan. 
+
