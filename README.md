@@ -1,5 +1,5 @@
 # bierendb
-BierenDB is a database (currently MySQL 8) to practice SQL on. I'm in the process of adding a SQLITE database have even more fun.
+BierenDB is a database (currently SQLite) to practice SQL on.
 
 This project was born to have a form of database to practice SQL on. I'm pretty sure it started at the [Open Beer Database](https://openbeerdb.com). For convenience I've added the original dump from there.
 
@@ -24,3 +24,6 @@ Work in progress: Creating the SQLITE database. Why was databases fun again? THE
 
 Grote wijzigingen doorgevoerd op eerdere database. Zie de git messages. Hopsoorten aangepast en toegevoegd. Data hiervoor komt bij https://hopblog.nl/hopsoorten/ vandaan. 
 
+# 14 Jan 2025
+
+Ditching MySQL.
